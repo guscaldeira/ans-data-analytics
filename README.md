@@ -29,7 +29,7 @@ Desenvolver uma solução que acesse o site da ANS, identifique os arquivos de "
 * **Apache Commons CSV:** Para leitura e escrita robusta de arquivos CSV.
 
 ###  Como Executar
-Execute a classe `Main.java` localizada no pacote `com.intuitivecare.questao1`.
+Execute a classe `Main.java` localizada no pacote `com.analisededados.questao1`.
 O fluxo será:
 1.  Console exibirá o progresso da busca e download.
 2.  Uma pasta `downloads/` será criada na raiz.
@@ -143,4 +143,4 @@ Desenvolver uma interface web para visualização dos dados das operadoras, perm
 ---
 
 ##  Autor
-Desenvolvido por **Gustavo Caldeira** como parte do processo seletivo da **Intuitive Care**.
+Desenvolvido por **Gustavo Caldeira**.
