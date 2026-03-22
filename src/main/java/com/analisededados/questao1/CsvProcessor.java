@@ -1,4 +1,4 @@
-package com.intuitivecare.questao1;
+package com.analisededados.questao1;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;

@@ -1,4 +1,4 @@
-package com.intuitivecare.questao2;
+package com.analisededados.questao2;
 
 /**
  * Utilitario para validacao de CNPJ.

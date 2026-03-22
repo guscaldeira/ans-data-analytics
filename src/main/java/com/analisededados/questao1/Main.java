@@ -1,4 +1,4 @@
-package com.intuitivecare.questao1;
+package com.analisededados.questao1;
 
 import java.io.*;
 import java.nio.file.Files;
