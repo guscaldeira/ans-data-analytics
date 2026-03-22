@@ -1,4 +1,4 @@
-# Teste Técnico - Intuitive Care
+# Plataforma de Análise de Dados - ANS
 
 Este repositório contém a solução para o teste técnico de desenvolvimento Java. O projeto foi estruturado para resolver as questões propostas de forma modular, limpa e escalável.
 
